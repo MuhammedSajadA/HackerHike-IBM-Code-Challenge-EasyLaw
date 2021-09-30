@@ -1,3 +1,3 @@
 # hackerhike
 
-Application that laws accessible to common man. 
+Application that makes laws accessible to common man. 
