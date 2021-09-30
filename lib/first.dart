@@ -6,6 +6,21 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        drawer:Drawer(
+          backgroundColor: Colors.grey.shade50,
+          child: Column(
+            children: [
+              SizedBox(height: 50,),
+              Divider(thickness: 2,),
+              ListTile(
+                leading:Icon(Icons.ac_unit),
+                trailing: Icon(Icons.arrow_forward),
+                title: Text("Kerala"),
+              ),
+              Divider(thickness: 2,),
+            ],
+          ),
+        ),
         appBar: AppBar(
           backgroundColor: Colors.teal,
           elevation: 0,
@@ -45,11 +60,9 @@ class MyApp extends StatelessWidget{
          ),
         floatingActionButton: FloatingActionButton.extended(
           onPressed: (){
-            Navigator.of(context).push(MaterialPageRoute(builder: (context){
-              return Bot();
-            }));
+           print("Chat Bot");
           },
-          label: Text('Connect us'),
+          label: Text('Chat'),
 
           icon: Icon(Icons.chat_bubble_rounded),
         ),
