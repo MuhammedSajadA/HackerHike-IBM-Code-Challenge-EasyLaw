@@ -11,7 +11,7 @@ The availability of these laws in a simplified manner would ease a lot of doubts
 
 ### Team Mates
 
-Sidharth PB <br/>
+Sidharth P B <br/>
 Shruti Santhosh <br/>
 Muhammed Sajad A
 
