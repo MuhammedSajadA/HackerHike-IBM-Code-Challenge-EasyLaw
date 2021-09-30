@@ -56,6 +56,7 @@ flutter:
      - assets/robot.jpg
      - assets/camera.png
      - assets/service.json
+     - emprecord.json
   fonts:
     - family: Zilla
       fonts:
