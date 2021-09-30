@@ -11,9 +11,9 @@ The availability of these laws in a simplified manner would ease a lot of doubts
 
 ### Team Mates
 
-Sidharth P B <br/>
-Shruti Santhosh <br/>
-Muhammed Sajad A
+Sidharth P B  (Code Section , PPT)<br/>
+Shruti Santhosh (Code Section , PPT)<br/>
+Muhammed Sajad A (Code Section , PPT)
 
 
 #### Features
