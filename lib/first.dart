@@ -45,7 +45,9 @@ class MyApp extends StatelessWidget{
          ),
         floatingActionButton: FloatingActionButton.extended(
           onPressed: (){
-            print("Chat with us");
+            Navigator.of(context).push(MaterialPageRoute(builder: (context){
+              return Bot();
+            }));
           },
           label: Text('Connect us'),
 
