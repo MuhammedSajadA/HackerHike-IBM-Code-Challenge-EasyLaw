@@ -2,14 +2,28 @@
 
 This project is make as a part of IBM Coding Challenge 2021. The Application that makes laws accessible to common man.
 
-## Features
+## Problem Statement
+
+There are more than a 1000 laws in our country. A number of them affect us directly or indirectly. It doesn’t take a few moves to realize that we might be on the wrong side of the law. A common man has little knowledge about these, most times, complicated laws. This in turn leads to a lack of awareness among the general public. It can be as simple as the documents that are needed to be carried while driving, or a land dispute and legal actions. 
+The lack of awareness of laws prove costly to most of us, as challans, fines, and even the fee for a lawyer. 
+The availability of these laws in a simplified manner would ease a lot of doubts people of India have.
+
+
+### Team Mates
+
+Sidharth PB <br/>
+Shruti Santhosh <br/>
+Muhammed Sajad A
+
+
+#### Features
 
 <ol>Higly Interactive UI for all users</ol>
 <ol>Search Option is available</ol>
 <ol>Provides federal laws and state laws</ol>
 <ol>Chat bot Help Easy access </ol>
 
-## screens
+##### Screens
 
 Home Screen <br/>
 
@@ -22,9 +36,7 @@ Other <br/>
 <br/>
 <img src="https://i.ibb.co/tzgw6pm/4.png" alt="4" border="0">
 
-### Team Mates
 
 
-Sidharth PB <br/>
-Shruti Santhosh <br/>
-Muhammed Sajad A
+
+
