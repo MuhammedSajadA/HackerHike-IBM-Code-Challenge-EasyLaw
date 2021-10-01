@@ -39,5 +39,5 @@ Other <br/>
 
 
 #### Presentation
-Please find the presentation in this [link](https://docs.google.com/presentation/d/1PGcxuxsVt8-NyuQxOtD5QgYu-M4VjRef/edit?usp=sharing&ouid=102663640958006304884&rtpof=true&sd=true)
+Please find the presentation and demo in this [link](https://drive.google.com/drive/folders/1HQ7H9A1PdJ6N7ZKPOpPaet-AyAhVwQ1S?usp=sharing)
 
