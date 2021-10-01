@@ -26,15 +26,21 @@ Muhammed Sajad A (Code Section , PPT)
 ##### Screens
 
 Home Screen <br/>
+<img src="https://i.ibb.co/zRndvrn/Whats-App-Image-2021-10-01-at-11-05-12-AM-1.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-12-AM-1" border="0"><br/>
+Fundamental Laws<br/>
+</br>
+<img src="https://i.ibb.co/gM4Yh1V/Whats-App-Image-2021-10-01-at-11-05-10-AM.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-10-AM" border="0">
+<img src="https://i.ibb.co/ZJ92pnj/Whats-App-Image-2021-10-01-at-11-05-12-AM-2.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-12-AM-2" border="0"></br>
+</br>
+Location<br/>
+</br>
+<img src="https://i.ibb.co/Lgkwry9/Whats-App-Image-2021-10-01-at-11-05-12-AM.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-12-AM" border="0"></br>
+Mvd Laws<br/>
+</br>
+<img src="https://i.ibb.co/fxkF9Bq/Whats-App-Image-2021-10-01-at-11-05-10-AM-2.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-10-AM-2" border="0">  <img src="https://i.ibb.co/Lvhskq8/Whats-App-Image-2021-10-01-at-11-05-10-AM-1.jpg" alt="Whats-App-Image-2021-10-01-at-11-05-10-AM-1" border="0">
 
-<img src="https://i.ibb.co/hRc6JJG/1.png" alt="1" border="0">
 
-Mvd Laws </br>
-<br/>
-<img src="https://i.ibb.co/V20Y3Kc/2.png" alt="2" border="0">  <img src="https://i.ibb.co/Scd5D3j/3.png" alt="3" border="0"><br/>
-Other <br/>
-<br/>
-<img src="https://i.ibb.co/tzgw6pm/4.png" alt="4" border="0">
+
 
 
 
