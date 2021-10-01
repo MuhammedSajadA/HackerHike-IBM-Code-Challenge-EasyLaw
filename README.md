@@ -1,6 +1,6 @@
 # Easy Hack
 
-This project is make as a part of IBM Coding Challenge 2021. The Application that makes laws accessible to common man.
+This project is made as part of IBM ISL Good Tech Scholar program 2021. This Application makes laws accessible to common man.
 
 ## Problem Statement
 
