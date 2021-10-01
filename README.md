@@ -38,6 +38,6 @@ Other <br/>
 
 
 
-##### Presentation
-Please find the presentation named as IBM_HACKATHON.pptx above. 
+#### Presentation
+Please find the presentation in this [link](https://docs.google.com/presentation/d/1PGcxuxsVt8-NyuQxOtD5QgYu-M4VjRef/edit?usp=sharing&ouid=102663640958006304884&rtpof=true&sd=true)
 
